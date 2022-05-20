@@ -182,7 +182,7 @@ section.sessao1 .container{
 	width: 50%;
 	position: relative;
 	top:30px;
-	left: 50px;
+	left: 70px;
 	height: 80%;
 	background-image: url('../imagens/device.png');
 	background-repeat: no-repeat;
@@ -501,7 +501,7 @@ height: 600px;
 	}
 	.Final img{
 		position: relative;
-		left: 200px;
+		left: 140px;
 	}
 
 
