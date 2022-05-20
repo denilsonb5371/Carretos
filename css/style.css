@@ -495,3 +495,14 @@ height: 600px;
 
 
  }
+ @media screen and (max-height:400px) {
+	.Final{
+		flex-wrap: wrap;
+	}
+	.Final img{
+		position: relative;
+		left: 200px;
+	}
+
+
+}
